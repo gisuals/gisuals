@@ -4,7 +4,7 @@ I’m a Computer Science student with a strong interest in technology and proble
 On this profile, you’ll find projects that reflect my journey — from small experiments to more structured applications as I grow.  
 
 ### Areas I’m exploring
-- Programming (Python, JavaScript, web technologies)  
+- Programming (Python, JavaScript, Typescript, etc  
 - Smart contracts and Web3 (Solidity, blockchain applications)  
 - Clean, user-friendly design and interfaces  
 
