@@ -1,5 +1,5 @@
 ## Hi hi, I'm Great 👋 
-I’m a Computer Science student with a strong interest in technology and problem-solving. My background in design gives me an eye for detail, and I’m now building on that by developing skills in programming and software development.  
+I’m a Computer Science student with a strong interest in technology and problem-solving. My background in brand design and UI design gives me an eye for detail, and I’m now building on that by developing skills in programming and software development.  
 
 On this profile, you’ll find projects that reflect my journey — from small experiments to more structured applications as I grow.  
 
